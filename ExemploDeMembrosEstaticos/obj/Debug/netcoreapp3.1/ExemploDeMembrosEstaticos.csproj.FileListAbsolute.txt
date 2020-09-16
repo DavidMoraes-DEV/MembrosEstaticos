@@ -1,0 +1,13 @@
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.AssemblyInfo.cs
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\bin\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.exe
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\bin\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.deps.json
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\bin\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.runtimeconfig.json
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\bin\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.runtimeconfig.dev.json
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\bin\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.dll
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\bin\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.pdb
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.dll
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.pdb
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosEstaticos\ExemploDeMembrosEstaticos\obj\Debug\netcoreapp3.1\ExemploDeMembrosEstaticos.genruntimeconfig.cache
